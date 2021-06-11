@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitClassification", "DigitClassification\DigitClassification.csproj", "{7F8C57E0-CDA7-41C3-854A-B9CF62CC74D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F8C57E0-CDA7-41C3-854A-B9CF62CC74D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F8C57E0-CDA7-41C3-854A-B9CF62CC74D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F8C57E0-CDA7-41C3-854A-B9CF62CC74D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F8C57E0-CDA7-41C3-854A-B9CF62CC74D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9CEA966D-39CC-4717-A5A1-1425D4A40271}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+C:\Users\Mirac\source\repos\DigitClassification\DigitClassification\bin\Debug\DigitClassification.exe.config
+C:\Users\Mirac\source\repos\DigitClassification\DigitClassification\bin\Debug\DigitClassification.exe
+C:\Users\Mirac\source\repos\DigitClassification\DigitClassification\bin\Debug\DigitClassification.pdb
+C:\Users\Mirac\source\repos\DigitClassification\DigitClassification\obj\Debug\DigitClassification.csprojAssemblyReference.cache
+C:\Users\Mirac\source\repos\DigitClassification\DigitClassification\obj\Debug\DigitClassification.Form1.resources
+C:\Users\Mirac\source\repos\DigitClassification\DigitClassification\obj\Debug\DigitClassification.Properties.Resources.resources
+C:\Users\Mirac\source\repos\DigitClassification\DigitClassification\obj\Debug\DigitClassification.csproj.GenerateResource.cache
+C:\Users\Mirac\source\repos\DigitClassification\DigitClassification\obj\Debug\DigitClassification.csproj.CoreCompileInputs.cache
+C:\Users\Mirac\source\repos\DigitClassification\DigitClassification\obj\Debug\DigitClassification.exe
+C:\Users\Mirac\source\repos\DigitClassification\DigitClassification\obj\Debug\DigitClassification.pdb
